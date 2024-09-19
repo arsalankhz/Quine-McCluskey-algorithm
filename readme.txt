@@ -1,5 +1,5 @@
 The following code will do Quine–McCluskey algorithm for any terms and any bites.
-Take note that this code does not provided for Dont-Care terms.
+Take note that this code is not provided for Dont-Care terms.
 
 
 Input/Output
